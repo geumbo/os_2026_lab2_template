@@ -1,0 +1,8 @@
+fork creates a new process
+exec replaces the process image
+pipe connects two processes
+fork returns twice
+signal interrupts a process
+wait collects a child
+fork and exec work together
+dup2 duplicates a file descriptor
